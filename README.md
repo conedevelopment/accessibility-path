@@ -15,7 +15,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Projects to Dig In](#projects-to-dig-in)
 * [Tools to Use](#tools-to-use)
 
-## Books to Read
+## 📚 Books to Read
 
 *Books are a great resource and starting point as always. In the field of web accessibility we have some excellent guidelines for any level.*
 
@@ -26,11 +26,12 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Inclusive Design Patterns](https://www.smashingmagazine.com/printed-books/inclusive-front-end-design-patterns/) - A practical book about how to build inclusive front-end with various patterns.
 * [Inclusive Components](http://book.inclusive-components.design/) - An improved version of the Inclusive Design Patterns book. Both are recommended.
 
-## Videos to Watch
+## 📺 Videos to Watch
+
 https://www.udacity.com/course/web-accessibility--ud891
 https://dequeuniversity.com/curriculum/packages/web
 
-## Blogs to Read
+## 📰 Blogs to Read
 
 *Today more people and experts write about accessibility. For the better progression it is a good idea to read them.*
 
@@ -43,12 +44,12 @@ https://dequeuniversity.com/curriculum/packages/web
 * [Vox Product Accessibility Guidelines](http://accessibility.voxmedia.com/) - You can learn a lot from VOX Media's guidelines related to a11y.
 *[Accessibility Wins](https://a11ywins.tumblr.com/) - Showcasing accessible user interfaces and tools.
 
-## People to Follow
+## 👨👩 People to Follow
 
-## Projects to Dig In
+## ⚙️ Projects to Dig In
 https://github.com/adamsilver/govuk-frontend
 
-## Tools to Use
+## 🧰 Tools to Use
 https://www.deque.com/axe/
 
 ## Contributing
