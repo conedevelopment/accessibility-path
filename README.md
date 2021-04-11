@@ -51,20 +51,3 @@ https://github.com/adamsilver/govuk-frontend
 
 ## 🧰 Tools to Use
 https://www.deque.com/axe/
-
-## Contributing
-
-Please pay attention to the following guidelines before you make a pull request:
-
-- Don't suggest previous resources check if yours is unique.
-- Make one pull request per suggestion.
-- When proposing, follow the declared format.
-- Any improvements are welcome.
-- Keep descriptions short and simple, but descriptive.
-- Check your spelling and grammar.
-
-Thank you for your suggestions!
-
-## License
-
-The text is released under the MIT License.
