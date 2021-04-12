@@ -29,8 +29,11 @@ Collecting and filtering the most suitable resources can differ per person, but 
 
 ## 📺 Videos to Watch
 
-https://www.udacity.com/course/web-accessibility--ud891
-https://dequeuniversity.com/curriculum/packages/web
+* [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891) - A short, introductory, and good accessibility course for beginners from Google.
+* [Web Accessibility Curriculum Package](https://dequeuniversity.com/curriculum/packages/web) - A complete course on accessibility. If you want to take the IAAP, WAS certification might be recommended.
+* [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today) - An excellent overall video course on Egghead.io about a lot of aspects of accessibility.
+* [Accessibility Tips & Tricks](https://egghead.io/courses/accessibility-tips-tricks-49286904) - Five accessibility short tips on Egghead.io.
+* [Accessible Cross-Browser CSS Form Styling](https://egghead.io/courses/accessible-cross-browser-css-form-styling-7297) - Create and style semantic and accessible forms.
 
 ## 📰 Blogs to Read
 
@@ -43,7 +46,7 @@ https://dequeuniversity.com/curriculum/packages/web
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) - The essential standard for you will be the WCAG as an accessibility expert. This W3 guide will help you start it!
 * [TPG](https://developer.paciellogroup.com/blog/) - You want to find the most respected accessibility experts? One of the answers is The Paciello Group. 
 * [Vox Product Accessibility Guidelines](http://accessibility.voxmedia.com/) - You can learn a lot from VOX Media's guidelines related to a11y.
-*[Accessibility Wins](https://a11ywins.tumblr.com/) - Showcasing accessible user interfaces and tools.
+* [Accessibility Wins](https://a11ywins.tumblr.com/) - Showcasing accessible user interfaces and tools.
 
 ## 👨👩 People to Follow
 
