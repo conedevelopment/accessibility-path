@@ -9,7 +9,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 ## Table of Content
 
 * [Books to Read](#-books-to-read)
-* [Videos to Watch](#-courses-to-watch)
+* [Videos to Watch](#-videos-to-watch)
 * [Blogs to Read](#-blogs-to-read)
 * [People to Follow](#-people-to-follow)
 * [Projects to Dig In](#-projects-to-dig-in)
@@ -21,10 +21,11 @@ Collecting and filtering the most suitable resources can differ per person, but 
 
 * [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) - I think this is the best book to start with. Not too heavy but thorough, and it will give you a strong foundation.
 * [A Web for Everyone](https://rosenfeldmedia.com/books/a-web-for-everyone/) - An excellent way to approach accessibility is through user experience. UX is a broad concept that includes a11y and usability. In this book, you can view this topic from a user experience view. 
-* [Just Ask: Integrating Accessibility Throughout Design](http://uiaccess.com/accessucd/) - An older book about the accessibility theory. Start to think as an inclusive specialty who universally cares about usability.
-* [Form Design Patterns](https://www.smashingmagazine.com/printed-books/form-design-patterns/) - The forms are essential elements on the interactive web. Everybody wants to build better and more accessible ones; with this practical book, you can make too.
+* [Just Ask: Integrating Accessibility Throughout Design](http://uiaccess.com/accessucd/) - An older book about the accessibility theory. Learn with the help of the user-centered design process.
+* [Form Design Patterns](https://www.smashingmagazine.com/printed-books/form-design-patterns/) - The forms are essential elements on the interactive web and the backbones of any application. Everybody wants to build better and more accessible ones; with this practical book, you can make too.
 * [Inclusive Design Patterns](https://www.smashingmagazine.com/printed-books/inclusive-front-end-design-patterns/) - A practical book about how to build inclusive front-end with various patterns.
-* [Inclusive Components](http://book.inclusive-components.design/) - An improved version of the Inclusive Design Patterns book. Both are recommended.
+* [Inclusive Components](http://book.inclusive-components.design/) - Similar to the Inclusive Design Patterns book but focuses more on components from the same author. Both are recommended.
+* [Practical Web Inclusion and Accessibility: A Comprehensive Guide to Access Needs](https://inclusive.guide/) - A practical book that approaches the accessibility from an exact disability. In my opinion, it is an excellent second book.
 
 ## 📺 Videos to Watch
 
