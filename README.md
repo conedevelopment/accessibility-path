@@ -36,21 +36,24 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today) - An excellent overall video course on Egghead.io about a lot of aspects of accessibility.
 * [Accessibility Tips & Tricks](https://egghead.io/courses/accessibility-tips-tricks-49286904) - Five accessibility short tips on Egghead.io.
 * [Accessible Cross-Browser CSS Form Styling](https://egghead.io/courses/accessible-cross-browser-css-form-styling-7297) - Create and style semantic and accessible forms.
+* [Web Accessibility for Designers: A guide to meeting accessibility guidelines for UI/UX designers](https://www.skillshare.com/classes/Web-Accessibility-for-Designers-A-guide-to-meeting-accessibility-guidelines-for-UIUX-designers/1127506348/projects) - A well-structured, basic course about web accessibility with practical examples.
+* [Inclusive UX: Designing Websites for Everyone](https://www.skillshare.com/classes/Inclusive-UX-Designing-Websites-for-Everyone/297973484) - In general about inclusive UX design, how to create anything for more people.
+* [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) -  Various accessibility-related concepts and problems shown in a short and understandable video.
 
 ## 📰 Blogs to Read
 
 *Today more people and experts write about accessibility. For the better progression it is a good idea to read them.*
 
+* [Adrian Roselli](https://adrianroselli.com/) - Adrian is one of my favorite authors, developer, expert. I recommend all your articles, really.
+* [Adam Silver](https://adamsilver.io/) - Adam is a great writer and inclusive developer. He specializes in form. His [book](https://www.smashingmagazine.com/printed-books/form-design-patterns/) is one of my favorites.
 * [GOV.UK Accessibility](https://accessibility.blog.gov.uk/) - Check out how and what does the UK to be more inclusive.
 * [MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) - A great introduction from MDN into accessibility.
 * [WebAIM](https://webaim.org/articles/) - WebAIM is a great player in the field of accessibility, and you can see this on its blog.
 * [Deque](https://www.deque.com/blog/) - From the Deque blog will always get the latest information and good learning resources.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) - The essential standard for you will be the WCAG as an accessibility expert. This W3 guide will help you start it!
-* [TPG](https://developer.paciellogroup.com/blog/) - You want to find the most respected accessibility experts? One of the answers is The Paciello Group. 
+* [TPGi](https://www.tpgi.com/development/) - You want to find the most respected accessibility experts? One of the answers is The Paciello Group. 
 * [Vox Product Accessibility Guidelines](http://accessibility.voxmedia.com/) - You can learn a lot from VOX Media's guidelines related to a11y.
 * [Accessibility Wins](https://a11ywins.tumblr.com/) - Showcasing accessible user interfaces and tools.
-
-## 👨👩 People to Follow
 
 ## ⚙️ Projects to Dig In
 https://github.com/adamsilver/govuk-frontend
