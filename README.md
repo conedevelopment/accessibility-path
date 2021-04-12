@@ -11,7 +11,6 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Books to Read](#-books-to-read)
 * [Videos to Watch](#-videos-to-watch)
 * [Blogs to Read](#-blogs-to-read)
-* [People to Follow](#-people-to-follow)
 * [Projects to Dig In](#-projects-to-dig-in)
 * [Tools to Use](#-tools-to-use)
 
@@ -56,7 +55,14 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Accessibility Wins](https://a11ywins.tumblr.com/) - Showcasing accessible user interfaces and tools.
 
 ## ⚙️ Projects to Dig In
-https://github.com/adamsilver/govuk-frontend
+
+*There are many public projects like inclusive components or debugger tools that we can learn a lot from.*
+
+* [a11y.css](https://ffoodd.github.io/a11y.css/) - ally.css is a simple CSS file that works like a debugger. It shows the developer possible risks and mistakes that exist in HTML code. It has handy documentation where you can study how it works.
 
 ## 🧰 Tools to Use
-https://www.deque.com/axe/
+
+*Testing accessibility is critical. You can't eliminate the in-person testing, but you can do the basics before it with some tools.*
+
+* [axe DevTools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US) - One of the more popular tools when it comes to accessibility testing. It is built into the developer consoles.
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Lighthouse is a built-in Chrome audit tool where you can audit accessibility too.
