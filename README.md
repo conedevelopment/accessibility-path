@@ -29,6 +29,8 @@ Collecting and filtering the most suitable resources can differ per person, but 
 
 ## 📺 Videos to Watch
 
+*If you like to learn with videos, you can find a lot of content about inclusive design. Mostly these are - at least the ones I watched - behind a paywall.*
+
 * [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891) - A short, introductory, and good accessibility course for beginners from Google.
 * [Web Accessibility Curriculum Package](https://dequeuniversity.com/curriculum/packages/web) - A complete course on accessibility. If you want to take the IAAP, WAS certification might be recommended.
 * [Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today) - An excellent overall video course on Egghead.io about a lot of aspects of accessibility.
