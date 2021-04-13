@@ -1,4 +1,4 @@
-# Accessibility Path - Resources To Learn About Inclusive Design
+# Accessibility Path - Learn About Inclusive Design
 
 **Accessibility Path is a collection of resources that can help you to learn web accessibility and inclusive design. It is also my learning path of learning this topic too. So this set of resources could be opinionated because these are what I found helpful on my journey. Indeed, there is much more learning material to explore.**
 
