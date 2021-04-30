@@ -11,6 +11,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Books to Read](#-books-to-read)
 * [Videos to Watch](#-videos-to-watch)
 * [Blogs to Read](#-blogs-to-read)
+* [Podcasts to Listen](#-podcasts-to-listen)
 * [Projects to Dig In](#-projects-to-dig-in)
 * [Tools to Use](#-tools-to-use)
 
