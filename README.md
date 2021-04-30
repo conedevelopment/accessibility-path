@@ -50,7 +50,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [WebAIM](https://webaim.org/articles/) - WebAIM is a great player in the field of accessibility, and you can see this on its blog.
 * [Deque](https://www.deque.com/blog/) - From the Deque blog will always get the latest information and good learning resources.
 * [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) - The essential standard for you will be the WCAG as an accessibility expert. This W3 guide will help you start it!
-* [TPGi](https://www.tpgi.com/development/) - You want to find the most respected accessibility experts? One of the answers is The Paciello Group. 
+* [TPGi](https://www.tpgi.com/development/) - You want to find the most respected accessibility experts? One of the answers TPGi (formerly known as The Paciello Group). 
 * [Vox Product Accessibility Guidelines](http://accessibility.voxmedia.com/) - You can learn a lot from VOX Media's guidelines related to a11y.
 * [Accessibility Wins](https://a11ywins.tumblr.com/) - Showcasing accessible user interfaces and tools.
 
