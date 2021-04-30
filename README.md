@@ -25,6 +25,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Inclusive Design Patterns](https://www.smashingmagazine.com/printed-books/inclusive-front-end-design-patterns/) - A practical book about how to build inclusive front-end with various patterns.
 * [Inclusive Components](http://book.inclusive-components.design/) - Similar to the Inclusive Design Patterns book but focuses more on components from the same author. Both are recommended.
 * [Practical Web Inclusion and Accessibility: A Comprehensive Guide to Access Needs](https://inclusive.guide/) - A practical book that approaches the accessibility from an exact disability. In my opinion, it is an excellent second book.
+* [Resilient Web Design](https://resilientwebdesign.com/) - The Resilient Web Design is a free ebook by Jeremy Keith. It is not necessarily about accessibility but certainly about inclusivity. If you want to know what progressive enhancement is and why the HTML is resilient, it is a must.
 
 ## 📺 Videos to Watch
 
