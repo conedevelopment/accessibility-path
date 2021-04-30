@@ -53,6 +53,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [TPGi](https://www.tpgi.com/development/) - You want to find the most respected accessibility experts? One of the answers TPGi (formerly known as The Paciello Group). 
 * [Vox Product Accessibility Guidelines](http://accessibility.voxmedia.com/) - You can learn a lot from VOX Media's guidelines related to a11y.
 * [Accessibility Wins](https://a11ywins.tumblr.com/) - Showcasing accessible user interfaces and tools.
+* [Knowbility](https://knowbility.org/blog) - Knowbility is a Texas-based non-profit organization. A respected organization specialized in accessible information technology.
 
 ## ⚙️ Projects to Dig In
 
