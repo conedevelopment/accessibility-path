@@ -74,3 +74,4 @@ Collecting and filtering the most suitable resources can differ per person, but 
 
 * [axe DevTools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US) - One of the more popular tools when it comes to accessibility testing. It is built into the developer consoles.
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Lighthouse is a built-in Chrome audit tool where you can audit accessibility too.
+* [WAVE](https://wave.webaim.org/) - WAVE (Web Accessibility Evaluation Tool) is an excellent visual accessibility tester in the browser (with an extension), but you can also use its API.
