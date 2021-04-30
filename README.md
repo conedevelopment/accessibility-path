@@ -56,6 +56,12 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Accessibility Wins](https://a11ywins.tumblr.com/) - Showcasing accessible user interfaces and tools.
 * [Knowbility](https://knowbility.org/blog) - Knowbility is a Texas-based non-profit organization. A respected organization specialized in accessible information technology.
 
+## 🎧 Podcasts to Listen
+
+*Nowadays, the podcast is a popular format. It is easy to consume; you can get a lot of new information, ideal for a walk.*
+
+* [13 Letters](https://www.bemyeyes.com/podcasts-show/13-letters) - This podcast is brought to you by [Be My Eyes](https://www.bemyeyes.com/). Everything about accessibility and inclusivity. Great conversations with industry leaders. It is a must.
+
 ## ⚙️ Projects to Dig In
 
 *There are many public projects like inclusive components or debugger tools that we can learn a lot from.*
