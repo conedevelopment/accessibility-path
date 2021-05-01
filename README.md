@@ -14,6 +14,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Podcasts to Listen](#-podcasts-to-listen)
 * [Newsletters to Subscribe](#-newsletters-to-subscribe)
 * [Projects to Dig In](#-projects-to-dig-in)
+* [Data to Analyze](#-data-to-analyze)
 * [Tools to Use](#-tools-to-use)
 
 ## 📚 Books to Read
@@ -47,7 +48,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 *Today more people and experts write about accessibility. For the better progression it is a good idea to read them.*
 
 * [Adrian Roselli](https://adrianroselli.com/) - Adrian is one of my favorite authors, developer, expert. I recommend all your articles, really.
-* [Adam Silver](https://adamsilver.io/) - Adam is a great writer and inclusive developer. He specializes in form. His [book](https://www.smashingmagazine.com/printed-books/form-design-patterns/) is one of my favorites.
+* [Adam Silver](https://adamsilver.io/) - Adam is a great writer and inclusive developer. He specializes in forms. His [book](https://www.smashingmagazine.com/printed-books/form-design-patterns/) is one of my favorites.
 * [GOV.UK Accessibility](https://accessibility.blog.gov.uk/) - Check out how and what does the UK to be more inclusive.
 * [MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) - A great introduction from MDN into accessibility.
 * [WebAIM](https://webaim.org/articles/) - WebAIM is a great player in the field of accessibility, and you can see this on its blog.
@@ -64,17 +65,24 @@ Collecting and filtering the most suitable resources can differ per person, but 
 
 * [13 Letters](https://www.bemyeyes.com/podcasts-show/13-letters) - This podcast is brought to you by [Be My Eyes](https://www.bemyeyes.com/). Everything about accessibility and inclusivity. Great conversations with industry leaders. It is a must.
 
-## 📧 Newsletter to Subscribe
+## 📧 Newsletters to Subscribe
 
 *Get regular related content through email is always a great idea. There are many new and great articles about accessibility.*
 
 * [Accessibility Weekly](https://a11yweekly.com/) - A weekly newsletter about anything web accessibility; start the week with great resources on the topic of a11y.
+* [WebAIM Monthly Newsletter](https://webaim.org/newsletter/) - WebAIM is an industry leader with valuable content and tools. Subscribe to this newsletter if you are interested in monthly news about accessibility.
 
 ## ⚙️ Projects to Dig In
 
 *There are many public projects like inclusive components or debugger tools that we can learn a lot from.*
 
 * [a11y.css](https://ffoodd.github.io/a11y.css/) - ally.css is a simple CSS file that works like a debugger. It shows the developer possible risks and mistakes that exist in HTML code. It has handy documentation where you can study how it works.
+
+## 💾 Data to Analyze
+
+*With data, we can quantify most of the things. It is no different with accessibility. It is nice to know the current state of a11y and various statistics about people who live with any disability.*
+
+*[The WebAIM Million](https://webaim.org/projects/million/) - The famous annual accessibility analysis of the top 1,000,000 home pages.
 
 ## 🧰 Tools to Use
 
