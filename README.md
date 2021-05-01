@@ -58,6 +58,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Vox Product Accessibility Guidelines](http://accessibility.voxmedia.com/) - You can learn a lot from VOX Media's guidelines related to a11y.
 * [Accessibility Wins](https://a11ywins.tumblr.com/) - Showcasing accessible user interfaces and tools.
 * [Knowbility](https://knowbility.org/blog) - Knowbility is a Texas-based non-profit organization. A respected organization specialized in accessible information technology.
+* [Manuel Matuzovic](https://www.matuzo.at/blog/) - Not just accessibility but (inclusive) web design and development in general. Always a good read.
 
 ## 🎧 Podcasts to Listen
 
@@ -82,7 +83,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 
 *With data, we can quantify most of the things. It is no different with accessibility. It is nice to know the current state of a11y and various statistics about people who live with any disability.*
 
-*[The WebAIM Million](https://webaim.org/projects/million/) - The famous annual accessibility analysis of the top 1,000,000 home pages.
+* [The WebAIM Million](https://webaim.org/projects/million/) - The famous annual accessibility analysis of the top 1,000,000 home pages.
 
 ## 🧰 Tools to Use
 
