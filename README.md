@@ -84,6 +84,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 *With data, we can quantify most of the things. It is no different with accessibility. It is nice to know the current state of a11y and various statistics about people who live with any disability.*
 
 * [The WebAIM Million](https://webaim.org/projects/million/) - The famous annual accessibility analysis of the top 1,000,000 home pages.
+* [Blindness and vision impairment](https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment) - WHO's summary (statistics) about global blindness and vision impairment.
 
 ## 🧰 Tools to Use
 
