@@ -12,6 +12,7 @@ Collecting and filtering the most suitable resources can differ per person, but 
 * [Videos to Watch](#-videos-to-watch)
 * [Blogs to Read](#-blogs-to-read)
 * [Podcasts to Listen](#-podcasts-to-listen)
+* [Newsletters to Subscribe](#-newsletters-to-subscribe)
 * [Projects to Dig In](#-projects-to-dig-in)
 * [Tools to Use](#-tools-to-use)
 
@@ -62,6 +63,12 @@ Collecting and filtering the most suitable resources can differ per person, but 
 *Nowadays, the podcast is a popular format. It is easy to consume; you can get a lot of new information, ideal for a walk.*
 
 * [13 Letters](https://www.bemyeyes.com/podcasts-show/13-letters) - This podcast is brought to you by [Be My Eyes](https://www.bemyeyes.com/). Everything about accessibility and inclusivity. Great conversations with industry leaders. It is a must.
+
+## 📧 Newsletter to Subscribe
+
+*Get regular related content through email is always a great idea. There are many new and great articles about accessibility.*
+
+* [Accessibility Weekly](https://a11yweekly.com/) - A weekly newsletter about anything web accessibility; start the week with great resources on the topic of a11y.
 
 ## ⚙️ Projects to Dig In
 
